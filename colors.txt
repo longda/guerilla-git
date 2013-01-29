@@ -7,3 +7,4 @@ green
 black
 orange
 grey
+light red
