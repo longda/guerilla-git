@@ -9,3 +9,4 @@ orange
 grey
 light red
 light purple
+pink
